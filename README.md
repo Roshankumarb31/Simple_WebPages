@@ -16,3 +16,10 @@ These webpages uses External CSS files for designing and Java files for content 
 ![image](https://github.com/Roshankumarb31/HTML-WebPages/assets/118297543/3ea8e921-da6d-4ca9-95e7-44dada976337)
 
 <hr>
+
+<h1>Expanding Cards</h1>
+
+![image](https://github.com/Roshankumarb31/HTML-WebPages/assets/118297543/2825ccf5-9751-414e-af3a-e82ad2dae879)
+![image](https://github.com/Roshankumarb31/HTML-WebPages/assets/118297543/cd9ca771-a9f4-4998-af94-6df67de61c27)
+
+<hr>
