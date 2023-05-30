@@ -23,3 +23,5 @@ These webpages uses External CSS files for designing and Java files for content 
 ![image](https://github.com/Roshankumarb31/HTML-WebPages/assets/118297543/cd9ca771-a9f4-4998-af94-6df67de61c27)
 
 <hr>
+
+Future updates will be done shortly
